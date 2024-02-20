@@ -1,6 +1,8 @@
 # RPGMZ-Sandbox-Manager
 ## Description
-Sandbox-Manager is a plugin for RPGMZ. It depends on *mz3d* and *PKD_Pocket Events*. This plugin will help you create an Sandbox game in RPGMaker. What's more, it also support api, which is easy for you to call in your own plugin.
+Sandbox-Manager is a plugin for RPGMZ. It depends on *mz3d* and *PKD_Pocket Events*. This plugin will help you create an 3D Sandbox game in RPGMaker. What's more, it also support api, which is easy for you to call in your own plugin.
+
+If you want to know how i realize this, read this [principle](principle.md)
 
 ## Preparation
 To use this plugin, please get following plugin:
@@ -16,10 +18,4 @@ PKD_PocketEvents By Pheonix KageDesu:
 ## Progress
 I am focusing on developing this plugin. However, I have too much things to do. It is difficult for me to keep on developing it, but eventually I will finish this plugin.
 
-I have already finished following things:
-1. Create objects in the map in first-perspection
-2. Generate blocks when the map is loaded
-3. Leared how to use webrtc (yes, i will make an online game)
-
-Hope everything goes well.
-(I am not an native english speaker, so some of the words may not so proper. However, I will try my best to write the doc in English)
+I will finish it soon.(changed in 2024-2-20)
